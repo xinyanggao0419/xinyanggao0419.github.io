@@ -13,13 +13,13 @@ I'm currently a Master of Engineering student in Operations Research and Informa
 
 You can navigate to the following sections:
 
-- **About Me** – A brief personal and academic introduction.
-- **CV** – My full CV and relevant experience.
-- **Projects** – Data analytics projects and applied work in modeling and statistics.
-- **Misc** – Exploratory work, tools, side notes, and other data-related materials that don’t fit into formal categories.
+- About Me – A brief personal and academic introduction.
+- CV – My full CV and relevant experience.
+- Projects – Data analytics projects and applied work in modeling and statistics.
+- Misc – Exploratory work, tools, side notes, and other data-related materials that don’t fit into formal categories.
 
 I'm passionate about using data to drive decision-making and uncover patterns in complex systems, and I hope some of the work here sparks your interest.
 
 Feel free to reach out or connect via the links below:
-[Email](xg344@cornell.edu)
-[Github](https://github.com/xinyanggao0419)
+Email: xg344@cornell.edu
+Github: [https://github.com/xinyanggao0419](https://github.com/xinyanggao0419)
