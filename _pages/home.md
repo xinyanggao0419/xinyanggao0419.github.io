@@ -21,5 +21,6 @@ You can navigate to the following sections:
 I'm passionate about using data to drive decision-making and uncover patterns in complex systems, and I hope some of the work here sparks your interest.
 
 Feel free to reach out or connect via the links below:
-Email: xg344@cornell.edu
-Github: [https://github.com/xinyanggao0419](https://github.com/xinyanggao0419)
+
+- Email: xg344@cornell.edu
+- Github: [https://github.com/xinyanggao0419](https://github.com/xinyanggao0419)
